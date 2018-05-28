@@ -1,4 +1,4 @@
-package com.dmall.config;
+package cn.thoughtworks.school;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
